@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: custom_line_V1.GBR   14.02.2021  22:19:04
+Gerber File Extension Report For: custom_line_V1.GBR   23.02.2021  22:24:32
 ------------------------------------------------------------------------------------------
 
 
@@ -13,6 +13,5 @@ Layer Extension     Layer Description
 .GTS                Top Solder                              
 .GBS                Bottom Solder                           
 .GBP                Bottom Paste                            
-.GBO                Bottom Overlay                          
 .GM3                Mechanical 3                            
 ------------------------------------------------------------------------------------------
