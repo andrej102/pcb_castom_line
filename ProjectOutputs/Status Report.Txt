@@ -1,11 +1,12 @@
-Output: Generates pick and place files
-Type  : Pick Place
-From  : Variant [[No Variations]] of Project [cutom_line_V1.PrjPCB]
-   Generated File[Pick Place for custom_line_V1.txt]
-   Generated File[Pick Place for custom_line_V1.csv]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [cutom_line_V1.PrjPCB]
+   Generated File[custom_line_V1.TXT]
+   Generated File[custom_line_V1.LDP]
+   Generated File[custom_line_V1.DRR]
 
 
-Files Generated   : 2
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 21:54:09 On 24.02.2021
+Finished Output Generation At 20:17:23 On 28.05.2021

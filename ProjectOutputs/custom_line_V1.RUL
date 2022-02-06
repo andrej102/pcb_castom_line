@@ -1,7 +1,7 @@
-DRC Rules Export File for PCB: C:\progects\progect_samuil3\hard_custom_line_V1\custom_line_V1.PcbDoc
+DRC Rules Export File for PCB: C:\progects\progect_OPC\hard\hard_custom_line_V1\custom_line_V1.PcbDoc
 RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
 RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
 RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
-RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=0.79
 RuleKind=Clearance|RuleName=Clearance_nearby_pads|Scope=Board|Minimum=3.94
 RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=7.87

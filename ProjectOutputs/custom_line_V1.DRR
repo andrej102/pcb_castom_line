@@ -1,5 +1,5 @@
 ---------------------------------------------------------------------------
-NCDrill File Report For: custom_line_V1.PcbDoc   23.02.2021  22:25:40
+NCDrill File Report For: custom_line_V1.PcbDoc   28.05.2021  20:17:22
 ---------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,11 +7,11 @@ ASCII RoundHoles File : custom_line_V1.TXT
 
 Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
 ---------------------------------------------------------------------------
-T1        0.4mm (15.748mil)        Round          486              1315.00 mm (51.77 Inch)
-T2        0.8mm (31.496mil)        Round          3                7.18 mm (0.28 Inch)
+T1        0.4mm (15.748mil)        Round          483              1312.26 mm (51.66 Inch)
+T2        0.8mm (31.496mil)        Round          15               232.45 mm (9.15 Inch)
 T3        1mm (39.37mil)           Round          20               63.47 mm (2.50 Inch)
 T4        3.2mm (125.984mil)       Round          4         NPTH   239.90 mm (9.44 Inch)
 ---------------------------------------------------------------------------
-Totals                                            513              1625.55 mm (64.00 Inch)
+Totals                                            522              1848.08 mm (72.76 Inch)
 
-Total Processing Time (hh:mm:ss) : 00:00:00
+Total Processing Time (hh:mm:ss) : 00:00:01
